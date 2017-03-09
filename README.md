@@ -1,0 +1,2 @@
+# primenumber
+Just another repository
